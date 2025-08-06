@@ -23,7 +23,7 @@ An AI-powered minimalist chatbot interface for first-year MBBS students.
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/your-username/medgpt-chat
+git clone https://github.com/jnhvi/medgpt-chat
 cd medgpt-chat
 npm install
 npm run dev
