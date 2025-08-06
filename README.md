@@ -1,4 +1,3 @@
-# Website-using-OpenAI-s-api-for-med-students
 # 🧠 MedGPT Chat
 
 An AI-powered minimalist chatbot interface for first-year MBBS students.
